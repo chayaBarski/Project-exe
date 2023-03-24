@@ -1,0 +1,17 @@
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\bin\Debug\net6.0\SQL.deps.json
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\bin\Debug\net6.0\SQL.dll
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\bin\Debug\net6.0\SQL.pdb
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\bin\Debug\net6.0\DAL.dll
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\bin\Debug\net6.0\MODEL.dll
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\bin\Debug\net6.0\DAL.pdb
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\bin\Debug\net6.0\MODEL.pdb
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\obj\Debug\net6.0\SQL.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\obj\Debug\net6.0\SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\obj\Debug\net6.0\SQL.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\obj\Debug\net6.0\SQL.AssemblyInfo.cs
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\obj\Debug\net6.0\SQL.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\obj\Debug\net6.0\SQL.csproj.CopyComplete
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\obj\Debug\net6.0\SQL.dll
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\obj\Debug\net6.0\refint\SQL.dll
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\obj\Debug\net6.0\SQL.pdb
+C:\Users\123\source\repos\Project-exe\Prodects\SQL\obj\Debug\net6.0\ref\SQL.dll
